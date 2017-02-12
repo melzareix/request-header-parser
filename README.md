@@ -14,9 +14,10 @@ https://request-header-parserz.herokuapp.com/api/v1/whoami
 
 ```
 {
-    "ipaddress": "123.52.20.176",
-    "language": "en-US",
-    "software": "Macintosh; Intel Mac OS X 10_11_0"
+  "status": "OK",
+  "ipaddress": "192.52.20.176",
+  "lang": "en-US",
+  "os": "Mac OS X 10.11.0"
 }
 ```
 
