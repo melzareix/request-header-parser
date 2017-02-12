@@ -1,4 +1,4 @@
-# Timestamp microservice
+# Header Parser Microservice
 ```
 User stories:
 1) User Story: I can get the IP address, language and operating system for my browser.
